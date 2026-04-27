@@ -1,0 +1,10 @@
+{
+  "DbHost": "localhost",
+  "DbPort": 5432,
+  "DbName": "farmos",
+  "DbUsername": "postgres",
+  "DbPassword": "root",
+  "ProjectRoot": "E:\\new_my_study\\himedia_FinalProject\\FarmOS",
+  "ConnectionString": "Host=localhost;Port=5432;Username=postgres;Password=root;Database=farmos",
+  "PostgresConnectionString": "Host=localhost;Port=5432;Username=postgres;Password=root;Database=postgres"
+}
